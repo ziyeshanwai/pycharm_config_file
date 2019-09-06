@@ -1,0 +1,39 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60445684" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PACKAGE_FILTER" value="qt&#10;vtk" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.5550769" />
+    <property name="TrendingPluginsSearchHistory" value="markdown&#10;m" />
+    <property name="file.chooser.recent.files" value="D:/pycharm_project/BinocularCameraCapture&#10;D:/pycharm_project/DeepCaptureV1.0&#10;D:/pycharm_project/FET&#10;D:/pycharm_project/MANO-Server-1&#10;D:/pycharm_project/MANO-Server&#10;D:/pycharm_project/Auto_blendshape&#10;D:/pycharm_project/MANO_LAYER_NUMPY&#10;D:/pycharm_project/MANO-GPU&#10;D:/pycharm_project/Fit_hands/manopth&#10;D:/pycharm_project/DeepCaptureV1.0/Helmet_debug_tool&#10;D:/pycharm_project/Align_blendshape_tool&#10;D:/pycharm_project/DeepCapture&#10;D:/pycharm_project/show_Textured_obj&#10;D:/pycharm_project/Demo_Using_Scipy_least_square&#10;D:/pycharm_project/smplify-x/smplifyx&#10;D:/pycharm_project/smplify-x&#10;D:/pycharm_project/Fit_hands&#10;D:/pycharm_project/Stablize_Blendshape&#10;D:/pycharm_project/AlignFace&#10;D:/FaceExpressionTransfer&#10;C:/ProgramData/Anaconda3/Scripts/pyuic5.exe&#10;C:/ProgramData/Anaconda3/Lib/site-packages/pyqt5_tools/designer.exe&#10;D:/3D_Face_Mesh_Generate_V4&#10;D:/Non-Grid-registration&#10;D:/deformation-transfer-python/deformation-transfer-python&#10;D:/Blendshape-Animation&#10;D:/Blendshape-Animation/Models&#10;D:/Blendshape-Based Animation&#10;D:/util_tool/util_tool&#10;D:/Deformation-Transfer-Matlab-master/获取眼部索引" />
+    <property name="file.gist.reindex.count" value="892147" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="118" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
